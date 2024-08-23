@@ -11,5 +11,7 @@ int main(){
 
     printf("the sum is : %d\n",a+b);
 
+// use * for multiplication , use - for substraction, use / for divion. //
+
     return 0;
 }
